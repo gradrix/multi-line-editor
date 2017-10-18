@@ -5,7 +5,7 @@
   "description": "MultiLine Text editor capabilities",
   "keywords": [
   ],
-  "repository": "https://github.com/atom/multi-line-editor",
+  "repository": "https://github.com/gradrix/multi-line-editor",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
