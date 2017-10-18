@@ -1,0 +1,18 @@
+{
+  "name": "multi-line-editor",
+  "main": "./lib/multi-line-editor",
+  "version": "1.0.1",
+  "description": "MultiLine Text editor capabilities",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "multi-line-editor:pasteMultiLine"
+  },
+  "repository": "https://github.com/atom/multi-line-editor",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

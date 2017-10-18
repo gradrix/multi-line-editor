@@ -1,0 +1,34 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Paste (multi line)",
+        "command": "multi-line-editor:pasteMultiLine"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "MultiLineEditor",
+          "submenu": [
+            {
+              "label": "Expand down",
+              "command": "multi-line-editor:expandDown"
+            },
+            {
+              "label": "Expand up",
+              "command": "multi-line-editor:expandUp"
+            },
+            {
+              "label": "Paste",
+              "command": "multi-line-editor:pasteMultiLine"
+            },
+          ]
+        }
+      ]
+    }
+  ]
+}
