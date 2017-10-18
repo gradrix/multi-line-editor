@@ -23,9 +23,17 @@
               "command": "multi-line-editor:expandUp"
             },
             {
+              "label": "Go to prev word",
+              "command": "multi-line-editor:moveToLeftWord"
+            },
+            {
+              "label": "Go to prev word",
+              "command": "multi-line-editor:moveToRightWord"
+            },
+            {
               "label": "Paste",
               "command": "multi-line-editor:pasteMultiLine"
-            },
+            }
           ]
         }
       ]

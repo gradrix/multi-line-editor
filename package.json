@@ -5,9 +5,6 @@
   "description": "MultiLine Text editor capabilities",
   "keywords": [
   ],
-  "activationCommands": {
-    "atom-workspace": "multi-line-editor:pasteMultiLine"
-  },
   "repository": "https://github.com/atom/multi-line-editor",
   "license": "MIT",
   "engines": {

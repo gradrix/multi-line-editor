@@ -2,7 +2,8 @@
   "atom-workspace": {
     "alt-down": "multi-line-editor:expandDown",
     "alt-up": "multi-line-editor:expandUp",
-    "ctrl-v": "multi-line-editor:pasteMultiLine",
-    "ctrl-shift-alt-up": "multi-line-editor:moveLastCursorUp"
+    "ctrl-alt-left": "multi-line-editor:moveToLeftWord",
+    "ctrl-alt-right": "multi-line-editor:moveToRightWord",
+    "ctrl-alt-v": "multi-line-editor:pasteMultiLine"
   }
 }
