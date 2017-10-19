@@ -1,8 +1,8 @@
 {
   "name": "multi-line-editor",
   "main": "./lib/multi-line-editor",
-  "version": "1.1.0",
-  "description": "MultiLine Text editor capabilities",
+  "version": "1.2.0",
+  "description": "MultiLine text editor capabilities",
   "keywords": [],
   "repository": "https://github.com/gradrix/multi-line-editor",
   "license": "MIT",

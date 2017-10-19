@@ -33,6 +33,14 @@
             {
               "label": "Paste",
               "command": "multi-line-editor:pasteMultiLine"
+            },
+            {
+              "label": "Paste down",
+              "command": "multi-line-editor:pasteMultiDown"
+            },
+            {
+              "label": "Paste up",
+              "command": "multi-line-editor:pasteMultiUp"
             }
           ]
         }

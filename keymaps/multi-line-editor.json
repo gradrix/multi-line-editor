@@ -4,6 +4,8 @@
     "alt-up": "multi-line-editor:expandUp",
     "ctrl-alt-left": "multi-line-editor:moveToLeftWord",
     "ctrl-alt-right": "multi-line-editor:moveToRightWord",
-    "ctrl-alt-v": "multi-line-editor:pasteMultiLine"
+    "ctrl-alt-v": "multi-line-editor:pasteMultiLine",
+    "ctrl-alt-pagedown": "multi-line-editor:pasteMultiDown",
+    "ctrl-alt-pageup": "multi-line-editor:pasteMultiUp"
   }
 }
