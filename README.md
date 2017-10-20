@@ -20,5 +20,5 @@ Multi-line edit functions for Atom Editor
   Moves all (or single) cursor to the end of a next word.  
 
 # TODO  
-  Improove cursor move functionality.    
+  Improve cursor move functionality.    
   Add multi cursor selection with mouse    
